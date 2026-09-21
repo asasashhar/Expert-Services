@@ -1,0 +1,6 @@
+{
+  "name": "Expert Services - AC & Appliance Repair Mumbai",
+  "description": "Professional doorstep AC, refrigerator, washing machine, kitchen chimney, RO water purifier, and cooking range repair across South & Central Mumbai. Fast technician dispatch from Mohammed Ali Road, Bhendi Bazaar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
